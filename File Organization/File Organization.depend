@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1706893649 source:c:\projects\file organization\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+
+1706894134 source:c:\users\gebaly\downloads\projects & certifications\projects\file organization\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+
